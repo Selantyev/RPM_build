@@ -1,7 +1,7 @@
 # RPM_build
 (CentOS 8)
 
-**Создать свой RPM пакет  (можно взять свое приложение, либо собрать, например, апач с определенными опциями)**
+**Создать свой RPM пакет**
 1. Устанавливаем пакеты
 
 `# yum install -y redhat-lsb-core wget rpmdevtools rpm-build createrepo yum-utils tree`
